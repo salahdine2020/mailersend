@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "798567208517",
+    "project_id": "test-stripe-bcebf",
+    "storage_bucket": "test-stripe-bcebf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798567208517:android:a9d50f8bee5bc222f6352c",
+        "android_client_info": {
+          "package_name": "com.example.mailsender"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "798567208517-to7he6d3qsgfre3s33ep20gunaj5of14.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0D3Y-y6CV9bf6iV4Dh7wD9nidDERJy0g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "798567208517-to7he6d3qsgfre3s33ep20gunaj5of14.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
